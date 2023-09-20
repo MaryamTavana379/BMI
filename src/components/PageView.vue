@@ -8,7 +8,7 @@
         <input type="text" placeholder="type your Height..." ref="height" />
         <input type="text" placeholder="type your Weight..." ref="weight" />
       </div>
-      <button @click="calculate">محاسبه</button>
+      <button @click="calculate"> Calculate... </button>
       <p>{{ text }}</p>
     </div>
 
