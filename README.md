@@ -1,17 +1,71 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.twitter.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<p> <a href="https://www.linkedin.com/in/maryamtavana"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/maryamtavana.__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> </p>
 <h2>Latest Blog Posts</h2>
-  <ul>
-    <li><a href=https://mokkapps.de/blog/focus-and-code-diff-in-nuxt-content-code-blocks>Focus & Code Diff in Nuxt Content Code Blocks</a></li><li><a href=https://mokkapps.de/blog/lazy-load-vue-component-when-it-becomes-visible>Lazy Load Vue Component When It Becomes Visible</a></li><li><a href=https://mokkapps.de/blog/a-comprehensive-guide-to-data-fetching-in-nuxt-3>A Comprehensive Guide to Data Fetching in Nuxt 3</a></li><li><a href=https://mokkapps.de/blog/whats-new-in-vue-3-3>What's New in Vue 3.3</a></li><li><a href=https://mokkapps.de/blog/ref-vs-reactive-what-to-choose-using-vue-3-composition-api>Ref vs. Reactive: What to Choose Using Vue 3 Composition API?</a></li>
-  </ul>
-<p><a href="https://www.mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/112>Weekly Vue News #112 - Custom SPA Loading Template for Your Nuxt Application</a></li><li><a href=https://weekly-vue.news/issues/111>Weekly Vue News #111 - Deep Watch on Arrays</a></li><li><a href=https://weekly-vue.news/issues/110>Weekly Vue News #110 - An URL Object Working on Both Server-Side and Client-Side in Nuxt</a></li><li><a href=https://weekly-vue.news/issues/109>Weekly Vue News #109 - Simple State Management With Composition API</a></li><li><a href=https://weekly-vue.news/issues/108>Weekly Vue News #108 - Manually Stop Watcher</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
+
+
+BMI Calculator
+This repository contains a BMI Calculator, a simple tool designed to calculate Body Mass Index (BMI) based on height and weight inputs. BMI is a widely used measurement to assess whether a person has a healthy body weight relative to their height.
+
+Features
+Easy-to-use: The BMI Calculator provides a straightforward interface for users to input their height and weight.
+BMI Calculation: The calculator uses the formula BMI = weight (kg) / (height (m))^2 to calculate the BMI value.
+Metric and Imperial Units: The calculator supports both metric (kilograms and meters) and imperial (pounds and inches) units, giving users the flexibility to input their measurements in their preferred system.
+BMI Categories: The tool categorizes BMI results into different ranges, such as underweight, normal weight, overweight, and obese, providing a clear interpretation of the BMI value.
+Real-time Results: The BMI calculation is performed instantly, and the BMI category is displayed immediately after the user submits their data.
+Getting Started
+To get started with the BMI Calculator, follow these steps:
+
+Clone the repository:
+
+bash
+Copy
+git clone https://github.com/your-username/bmi-calculator.git
+```
+
+Open the project in your preferred code editor.
+
+Open the index.html file in a web browser.
+
+Input your height and weight.
+
+Click the "Calculate" button to obtain your BMI value and category.
+
+Contributing
+Contributions to the BMI Calculator are welcome! If you would like to contribute, follow these steps:
+
+Fork the repository.
+
+Create a new branch for your feature or bug fix:
+
+bash
+Copy
+git checkout -b feature/my-feature
+```
+
+Make your modifications and commit your changes:
+
+bash
+Copy
+git commit -m "Add my feature"
+```
+
+Push your changes to your forked repository:
+
+bash
+Copy
+git push origin feature/my-feature
+```
+
+Open a pull request on the original repository, describing your changes in detail.
+
+Please ensure that your code adheres to the existing coding style and includes appropriate documentation.
+
+License
+This BMI Calculator is released under the MIT License. See the LICENSE file for more information.
+
+Acknowledgments
+The BMI Calculator tool was inspired by the World Health Organization (WHO) guidelines for BMI classification.
+Special thanks to the open-source community for providing valuable resources and libraries used in developing this project.
+Contact
+If you have any questions, suggestions, or feedback, please feel free to reach out to us at email@example.com.
+
+Thank you for your interest in the BMI Calculator!
