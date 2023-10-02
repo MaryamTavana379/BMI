@@ -27,7 +27,7 @@ The BMI Calculator is a web-based tool that calculates an individual's Body Mass
 
 ## Demo
 
-To see a live demo of the BMI Calculator, visit [here](https://example.com).
+To see a live demo of the BMI Calculator, visit [here](https://maryamtavana379.github.io/BMI/).
 
 ## Getting Started
 
